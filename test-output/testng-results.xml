@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-16T01:31:24 EST" name="Default suite" finished-at="2023-01-16T01:31:30 EST" duration-ms="6577">
+    <groups>
+    </groups>
+    <test started-at="2023-01-16T01:31:24 EST" name="Default test" finished-at="2023-01-16T01:31:30 EST" duration-ms="6577">
+      <class name="com.Webportal.Webportal_XWC">
+        <test-method is-config="true" signature="BrowserInvoke()[pri:0, instance:com.Webportal.Webportal_XWC@60bd273d]" started-at="2023-01-16T01:31:24 EST" name="BrowserInvoke" finished-at="2023-01-16T01:31:26 EST" duration-ms="2273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserInvoke -->
+        <test-method signature="TestOperation()[pri:0, instance:com.Webportal.Webportal_XWC@60bd273d]" started-at="2023-01-16T01:31:26 EST" name="TestOperation" finished-at="2023-01-16T01:31:30 EST" duration-ms="4261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOperation -->
+        <test-method is-config="true" signature="CloseOperation()[pri:0, instance:com.Webportal.Webportal_XWC@60bd273d]" started-at="2023-01-16T01:31:30 EST" name="CloseOperation" finished-at="2023-01-16T01:31:30 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseOperation -->
+      </class> <!-- com.Webportal.Webportal_XWC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
